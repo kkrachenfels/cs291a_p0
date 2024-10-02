@@ -1,0 +1,13 @@
+h1 {
+	font-family: Trebuchet MS;
+	font-size: 24 pt;
+	text-align: center;
+	margin: 2em;
+}
+
+body {
+	font-family: Trebuchet MS;
+	font-size: 16 pt;
+	background-color: lightcyan;
+	text-align: center;
+}
