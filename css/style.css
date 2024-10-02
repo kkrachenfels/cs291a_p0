@@ -1,13 +1,41 @@
+* {
+	text-align: center;
+}
+
 h1 {
 	font-family: Trebuchet MS;
 	font-size: 24 pt;
-	text-align: center;
-	margin: 2em;
+	margin: 1em;
 }
 
 body {
 	font-family: Trebuchet MS;
 	font-size: 16 pt;
 	background-color: lightcyan;
-	text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+table, th, td {
+	margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+th {
+	background-color: lightseagreen;
+}
+
+img {
+	width:500px;
 }
